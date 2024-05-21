@@ -4,8 +4,8 @@ Generateed the random topologies of the beam by altering the positions, sizes, a
 
 Given the Fem code we had data file with the coefficient of elasticity for elements of the beam, and the load applied on the beam.
 
-We had to randomize the position of hole in the beam and predict displacement of the beam in the first part.
+We had to randomize the position of hole in the beam, generate he data for testing and validating and predict displacement of the beam in the first part.
 
 Then using the original data file and changing the position of load among more than 1200 nodes to predict displacemnt of the beam in the secind part.
 
-The third and the final part was to find maximam stress node and perform the prediction of displacement for the same.
+The third and the final part was to find maximam stress node and perform the prediction of displacement for the same by again generating data for the corresponding fornce and changing material properties.
